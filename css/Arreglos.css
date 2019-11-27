@@ -1,0 +1,77 @@
+.arreglo1{
+	background: #0080FF;
+	padding: 8px;
+	padding-left: 70px;
+	font-size: 20px;
+ 	color:#FFFFFF;
+ 	font-family: Homer Simpson UI;
+ 	
+}
+.rounded-circlo{
+	border-radius: 50%;
+	width: 5%;
+	height: 5%;
+}
+.notiFic{
+	margin-left: 165px;
+}
+.buscFic{
+	margin-left: 0px;
+}
+.formFic{
+	margin-left: 80px;
+	border-radius: 3px;
+	width: 40%;
+}
+
+a{
+	margin-left: 28px;
+
+}
+
+.a1{
+	margin-left: 450px;
+}
+.imagenesFic{
+	width: 100%;
+	
+	margin: 1%;
+}
+
+.button{
+
+	background: #7f8c8d;
+	color: #fff;
+	display: inline-block;
+	float-size:1.25em;
+	margin: 10px;
+	padding: 10px 0px;
+	text-align: center;
+	width: 200px;
+	text-decoration: none;
+	box-shadow: 0px 3px 0px #373c3c3;
+	
+}
+#columna{
+	
+  
+  width: 10%;
+  padding-bottom:40px;
+  
+  margin-top: 15px;
+  margin-right: 15px;
+}
+
+#columna2{
+	
+  background: #DFDED2;
+  width: 10%;
+  padding-bottom:40px;
+  
+  margin-top: 15px;
+  margin-right: 15px;
+}
+button a{
+	text-decoration: none;
+	color:black;
+}
